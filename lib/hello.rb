@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a8b45a2d5eab4be79fcdb605a0542337b61d7dd2
 def hello_t(array)
   if block_given?
   i = 0
@@ -10,8 +13,14 @@ def hello_t(array)
   array
 else 
 	puts "Hey! No block was given!"
+<<<<<<< HEAD
+=======
+end
+>>>>>>> a8b45a2d5eab4be79fcdb605a0542337b61d7dd2
 end
 end
+
+
 
 
 # call your method here!
